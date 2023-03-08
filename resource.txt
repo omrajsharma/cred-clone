@@ -14,10 +14,10 @@ https://web-images.credcdn.in/_next/assets/images/home-page/phone/neopop-right-2
 backgroundImage: https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg
 
 # Section 4 -
-https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold1.png;
-https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold2.png;
-https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold3.png;
-https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold4.png;
+https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold1.png
+https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold2.png
+https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold3.png
+https://web-images.credcdn.in/_next/assets/images/home-page/features/neopop-fold4.png
 
 # Section 5 -
 background : https://web-images.credcdn.in/_next/assets/images/home-page/neopop-image-mock.png
